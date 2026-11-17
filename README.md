@@ -352,3 +352,4 @@ uv run ruff check czsc/ tests/
 ## 反馈与声明
 
 遇到问题请提交 [Issue](https://github.com/waditu/czsc/issues)，附版本、最小复现与错误信息。项目开源仅用于技术交流，不构成投资建议。
+作为服务
